@@ -1,6 +1,6 @@
 {
   "name": "blear.core.cookie",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "浏览器核心 cookie",
   "scripts": {
     "live": "browser-sync start --config bs-config.js",
@@ -10,7 +10,7 @@
   "preferGlobal": false,
   "bin": {},
   "engines": {
-    "node": ">= 4.0.0",
+    "node": ">= 6.0.0",
     "iojs": ">= 1.0.0"
   },
   "main": "src/index.js",
